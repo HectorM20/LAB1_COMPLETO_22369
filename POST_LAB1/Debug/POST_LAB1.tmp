@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\Debug\POST_LAB1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>POST_LAB1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>POST_LAB1.map</FILE>
+  <FILE>POST_LAB1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>25</LINE></SETUP>
+  <MAIN_LOOP><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>53</LINE></MAIN_LOOP>
+  <read_sw1><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>63</LINE></read_sw1>
+  <read_sw2><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>111</LINE></read_sw2>
+  <SUMA_CONTADORES><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>160</LINE></SUMA_CONTADORES>
+  <reset1><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>81</LINE></reset1>
+  <ascendente1><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>86</LINE></ascendente1>
+  <descendente1><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>94</LINE></descendente1>
+  <update_leds1><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>102</LINE></update_leds1>
+  <delay><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>189</LINE></delay>
+  <reset2><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>129</LINE></reset2>
+  <ascendente2><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>134</LINE></ascendente2>
+  <descendente2><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>142</LINE></descendente2>
+  <update_leds2><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>150</LINE></update_leds2>
+  <CARRY_ON><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>178</LINE></CARRY_ON>
+  <ANT0><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>192</LINE></ANT0>
+  <ANT1><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>195</LINE></ANT1>
+  <ANT2><FILE>C:\Users\alema\OneDrive\Desktop\POSTLAB1\POST_LAB1\POST_LAB1\main.asm</FILE><LINE>198</LINE></ANT2>
+ </LABELS>
+</ASSEMBLER_INFO>
